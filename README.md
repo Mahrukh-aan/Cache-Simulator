@@ -1,7 +1,7 @@
 # Cache-Simulator
 A direct mapped cache simulator keeping track of hit and miss rates.
 
-The simulator is be able to handle the following characteristics:
+The simulator is able to handle the following characteristics:
 Cache Size: 1024
 Block size: 16 bytes
 Main memory address: 16 bits (216 bytes  memory)
